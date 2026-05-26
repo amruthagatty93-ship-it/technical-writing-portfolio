@@ -43,7 +43,7 @@ Specialized in:
 
 - Contributed to Sports Graphics API documentation for sports data platforms and related services
 - Created and maintained API reference documentation and developer guides for multiple sports data feeds
-- Developed clear, structured technical documentation to support developer onboarding and API integrations
+- Developed clear, structured technical documentation to support developers onboarding and API integrations
 - Authored and maintained ServiceNow knowledge base articles for troubleshooting and internal support workflows
 - Collaborated cross-functionally with engineering, QA, and product teams to deliver accurate and user-focused documentation
 
@@ -59,3 +59,4 @@ Specialized in:
 
 - LinkedIn: https://www.linkedin.com/in/amrutha-gatty-819579b2/
 - Email: amruthagatty93@gmail.com
+-  Phone: +91 9036577841
