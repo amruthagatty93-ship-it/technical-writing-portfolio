@@ -1,15 +1,16 @@
 # Amrutha — Technical Writing Portfolio
 
-Welcome to my technical writing portfolio.
+Technical Writer with 9 years of professional experience creating API documentation, developer documentation, release notes, and structured product documentation for software and sports data platforms.
 
-I am a Technical Writer with experience creating:
+Experienced in collaborating with engineering, QA, and product teams to deliver clear, accurate, and user-friendly technical content.
+
+Specialized in:
 - API Documentation
 - Developer Documentation
-- User Guides
 - Release Notes
 - Knowledge Base Articles
+- Structured Documentation
 
-I specialize in simplifying technical concepts into clear, user-friendly documentation.
 
 ---
 
@@ -40,10 +41,11 @@ I specialize in simplifying technical concepts into clear, user-friendly documen
 ---
 # Professional Experience Highlights
 
-- Led v2 documentation creation for MLB baseball feeds
-- Created and maintained SGAPI product documentation
-- Developed structured technical documentation for software products
-- Collaborated with developers and QA teams for documentation updates and releases
+- Contributed to Sports Graphics API documentation for sports data platforms and related services
+- Created and maintained API reference documentation and developer guides for multiple sports data feeds
+- Developed clear, structured technical documentation to support developer onboarding and API integrations
+- Authored and maintained ServiceNow knowledge base articles for troubleshooting and internal support workflows
+- Collaborated cross-functionally with engineering, QA, and product teams to deliver accurate and user-focused documentation
 
 ---
 
