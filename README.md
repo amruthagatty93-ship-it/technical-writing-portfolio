@@ -38,22 +38,18 @@ I specialize in simplifying technical concepts into clear, user-friendly documen
 - Jira
 
 ---
+# Professional Experience Highlights
 
-# Portfolio Samples
+- Led v2 documentation creation for MLB baseball feeds
+- Created and maintained SGAPI product documentation
+- Developed structured technical documentation for software products
+- Collaborated with developers and QA teams for documentation updates and releases
 
-## API Documentation
-- [Authentication Guide]
-- [Endpoint Specification Guide]
+---
 
-## User Guide
-- [Getting Started Guide]
-- [Troubleshooting Login Issues]
+# Resume
 
-## Release Notes
-- [Version 2.1 Release Notes]
-
-## Knowledge Base
-- [Service Now Knowledge Base Articles]
+[Download Resume](./resume/resume.pdf)
 
 ---
 
